@@ -1,0 +1,16 @@
+{
+  "name": "asteroid-game",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.2.6",
+    "jade": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@Dhananjay8.github.com/asteroid-game.git"
+  },
+  "author": "Dhananjay Patil"
+}
